@@ -9,10 +9,9 @@ Ellis Brown
 ### see [tutorial.ipynb](tutorial.ipynb)!
 
 
-<br><br>
+<br>
 
 ## 0. Why this matters?
----
 Good tooling:
 1. Accelerates experimentation
     - make more progress, faster
@@ -20,10 +19,10 @@ Good tooling:
 2. Enables reproducibility
 3. Facilitates collaboration
 
-<br><br>
+<br>
 
 ## 1. VSCode
----
+
 
 Why I like it:
 - Lightweight and fast
@@ -35,10 +34,10 @@ Why I like it:
 - Debugging
 - Wide adoption / community / support
 
-<br><br>
+<br>
 
 ## 2. Jupyter
----
+
 - interactive notebook + code execution
 - great for experimentation, data exploration, and visualization
 - lightweight way to test/develop your library code, interactively
@@ -71,10 +70,10 @@ Why I like it:
 - e.g., I nest my notebooks in a `notebooks/` dir with the following naming convention:
     - `notebooks/YYYY-MM-DD-<name>.ipynb`
 
-<br><br>
+<br>
 
 ## 3. GitHub Copilot
----
+
 - GPT-3 powered Code Autocompletion (on steroids)
 - *potentially best application of current generations of LLMs?*
 
@@ -402,7 +401,7 @@ test_get_first_names()
 
 
 ## 4. Mamba — drop-in replacement for Conda rewritten in C++ ⚡⚡
----
+
 
 #### 4.1 `conda` vs. `pip`?
 Conda
@@ -442,10 +441,10 @@ https://mamba.readthedocs.io/en/latest/index.html
     alias muf="mamba env update --file"
     ```
     
-<br><br>
+<br>
 
 ## 5. Git
----
+
 
 > ***make life easier for your future self***
 
