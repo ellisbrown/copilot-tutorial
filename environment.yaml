@@ -1,0 +1,25 @@
+name: tutorial
+
+# higher channels get priority
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - ipdb
+  - pytest
+  - flake8
+  - ipykernel
+  - ipython
+  - tqdm
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pytorch
+  - torchvision
+  - pip:
+    - git+https://github.com/openai/CLIP.git
